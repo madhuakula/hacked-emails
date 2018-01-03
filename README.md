@@ -6,9 +6,9 @@ A command line [hacked-email](https://hacked-emails.com) utility
 
 #### Binaries
 
-```
-Will be added soon
-```
+- **darwin** [386](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-darwin-386) / [amd64](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-darwin-amd64)
+- **linux** [386](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-linux-386) / [amd64](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-linux-amd64)
+- **windows** [386](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-windows-386) / [amd64](https://github.com/madhuakula/hacked-emails/releases/download/0.0.1/hacked-emails-windows-amd64)
 
 #### Via Go
 
@@ -38,7 +38,7 @@ Unknown Database FR : (2016-07-19T00:00:00+00:00)
 
 ## To-Do
 
-- [ ] Binary builds for different platforms
+- [X] Binary builds for different platforms
 - [ ] Automated binary builds
 - [ ] Arguments validation (email)
 - [ ] Status checks
